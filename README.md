@@ -1,9 +1,16 @@
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/sugeng-22/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/sugeng-22/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+
 # The World in One Day — Monday 23 November 2026
 
 A single-image news infographic for the make.fun **News Image** bounty
-(`news-image-20261123`). `main.py` copies the bundled `entry.png` to
-`/output/entry.png`; `generate.py` is the Pillow script that rendered the
-image from scratch (deterministic, no network).
+([news-image-20261123](https://make.fun/bounty/news-image-20261123)).
+`main.py` copies the bundled `entry.png` to `/output/entry.png`;
+`generate.py` is the Pillow script that rendered the image from scratch
+(deterministic, no network).
+
+Run it with: `python3 main.py` — the image appears at `/output/entry.png`.
 
 ## What's in the image
 
